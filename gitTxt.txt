@@ -1,6 +1,6 @@
 //修
 
-conflict test
+conflict tes
 
 conflict pull
 
