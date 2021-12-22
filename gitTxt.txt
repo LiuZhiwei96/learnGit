@@ -5,3 +5,5 @@ stash test
 conflict pull
 
 another user update
+
+my update
