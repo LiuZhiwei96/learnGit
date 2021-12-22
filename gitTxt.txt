@@ -1,6 +1,6 @@
 //修
 
-stash test
+conflict test
 
 conflict pull
 
