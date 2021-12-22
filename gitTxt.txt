@@ -1,3 +1,9 @@
 //修
 
-stash test
+conflict test
+
+conflict pull
+
+another user update
+
+my update
