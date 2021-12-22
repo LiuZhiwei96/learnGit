@@ -2,6 +2,6 @@
 
 stash test
 
-push branch
+conflict pull
 
 another user update
